@@ -1,0 +1,66 @@
+image_width: 324
+
+image_height: 204
+
+firstname:
+  width: 240
+  height: 28
+  left: 0
+  top: 117
+
+
+# lastname:
+#   width: 125
+#   height: 25
+#   left: 55
+#   top: 65
+
+# gender:
+#   width: 45
+#   height: 20
+#   left: 55
+#   top: 123
+
+# height:
+#   width: 45
+#   height: 20
+#   left: 100
+#   top: 123
+
+birth_date:
+  width: 90
+  height: 20
+  left: 35
+  top: 140
+
+# department:
+#   width: 125
+#   height: 20
+#   left: 55
+#   top: 140
+
+# expiry_date:
+#   width: 125
+#   height: 20
+#   left: 55
+#   top: 105
+
+photo:
+  width: 110
+  height: 110
+  left: 0
+  top: 6
+
+
+
+signature:
+  width: 190
+  height: 140  
+  left: 65
+  top: 165  
+
+id:
+  width: 125
+  height: 35
+  left: 110
+  top: 90

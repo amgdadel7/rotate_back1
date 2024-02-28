@@ -1,0 +1,56 @@
+{
+    "data":[
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\949.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\949.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\950.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\950.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\951.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\951.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\952.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\952.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\954.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\954.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\967.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\967.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\977.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\977.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\981.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\981.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\989.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\989.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\992.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\992.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\993.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\993.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\994.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\994.json"
+        },
+        {
+            "image_url": "datasets\\detection\\BACK_ID_CARD\\996.JPEG",
+            "annotation_url": "datasets\\detection\\BACK_ID_CARD\\996.json"
+        }
+    ]
+}

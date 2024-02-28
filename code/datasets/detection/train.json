@@ -1,0 +1,1113 @@
+{
+"data":[
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1001.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1001.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1004.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1004.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1012.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1012.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1015.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1015.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1025.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1025.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1032.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1032.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1033.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1033.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1035.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1035.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1041.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1041.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\1046.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\1046.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\117.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\117.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\126.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\126.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\129.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\129.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\142.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\142.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\153.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\153.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\168.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\168.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\187.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\187.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\189.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\189.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\213.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\213.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\318.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\318.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\322.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\322.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\326.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\326.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\327.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\327.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\328.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\328.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\331.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\331.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\332.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\332.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\333.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\333.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\335.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\335.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\336.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\336.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\339.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\339.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\341.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\341.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\342.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\342.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\345.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\345.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\346.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\346.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\348.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\348.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\349.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\349.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\350.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\350.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\351.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\351.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\352.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\352.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\353.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\353.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\354.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\354.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\356.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\356.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\358.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\358.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\359.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\359.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\360.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\360.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\361.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\361.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\363.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\363.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\366.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\366.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\367.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\367.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\368.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\368.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\370.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\370.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\371.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\371.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\373.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\373.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\374.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\374.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\376.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\376.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\379.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\379.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\380.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\380.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\381.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\381.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\382.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\382.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\383.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\383.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\384.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\384.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\385.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\385.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\386.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\386.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\388.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\388.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\393.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\393.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\394.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\394.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\397.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\397.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\402.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\402.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\404.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\404.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\406.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\406.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\407.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\407.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\408.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\408.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\409.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\409.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\410.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\410.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\413.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\413.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\414.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\414.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\415.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\415.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\416.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\416.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\418.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\418.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\423.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\423.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\424.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\424.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\426.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\426.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\427.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\427.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\430.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\430.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\433.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\433.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\442.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\442.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\444.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\444.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\445.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\445.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\447.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\447.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\448.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\448.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\449.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\449.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\452.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\452.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\453.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\453.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\457.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\457.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\458.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\458.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\459.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\459.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\460.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\460.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\462.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\462.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\463.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\463.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\464.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\464.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\465.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\465.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\468.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\468.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\469.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\469.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\471.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\471.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\474.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\474.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\475.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\475.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\479.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\479.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\481.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\481.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\483.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\483.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\484.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\484.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\488.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\488.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\492.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\492.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\494.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\494.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\496.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\496.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\497.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\497.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\499.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\499.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\501.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\501.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\504.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\504.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\505.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\505.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\506.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\506.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\513.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\513.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\520.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\520.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\521.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\521.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\522.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\522.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\526.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\526.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\531.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\531.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\534.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\534.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\537.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\537.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\541.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\541.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\542.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\542.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\543.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\543.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\545.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\545.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\549.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\549.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\553.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\553.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\555.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\555.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\558.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\558.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\559.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\559.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\560.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\560.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\562.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\562.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\564.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\564.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\565.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\565.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\573.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\573.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\575.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\575.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\576.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\576.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\577.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\577.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\579.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\579.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\580.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\580.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\581.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\581.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\582.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\582.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\584.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\584.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\585.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\585.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\591.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\591.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\597.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\597.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\599.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\599.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\600.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\600.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\604.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\604.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\605.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\605.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\606.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\606.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\607.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\607.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\608.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\608.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\622.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\622.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\633.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\633.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\634.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\634.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\643.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\643.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\646.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\646.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\649.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\649.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\654.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\654.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\658.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\658.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\660.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\660.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\661.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\661.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\665.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\665.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\669.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\669.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\674.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\674.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\677.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\677.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\679.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\679.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\681.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\681.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\687.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\687.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\693.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\693.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\700.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\700.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\704.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\704.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\705.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\705.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\709.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\709.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\714.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\714.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\715.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\715.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\718.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\718.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\720.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\720.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\728.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\728.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\729.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\729.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\730.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\730.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\731.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\731.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\732.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\732.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\733.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\733.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\734.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\734.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\735.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\735.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\736.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\736.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\737.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\737.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\738.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\738.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\739.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\739.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\740.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\740.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\741.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\741.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\742.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\742.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\743.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\743.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\744.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\744.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\745.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\745.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\746.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\746.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\749.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\749.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\752.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\752.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\753.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\753.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\754.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\754.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\755.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\755.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\757.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\757.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\761.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\761.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\763.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\763.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\766.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\766.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\773.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\773.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\774.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\774.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\779.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\779.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\781.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\781.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\782.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\782.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\783.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\783.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\784.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\784.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\785.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\785.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\789.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\789.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\790.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\790.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\791.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\791.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\792.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\792.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\793.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\793.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\794.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\794.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\796.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\796.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\797.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\797.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\798.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\798.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\801.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\801.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\806.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\806.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\808.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\808.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\809.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\809.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\810.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\810.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\812.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\812.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\813.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\813.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\817.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\817.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\819.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\819.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\822.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\822.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\825.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\825.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\828.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\828.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\831.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\831.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\854.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\854.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\861.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\861.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\869.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\869.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\872.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\872.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\874.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\874.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\876.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\876.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\884.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\884.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\886.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\886.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\888.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\888.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\892.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\892.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\899.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\899.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\910.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\910.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\911.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\911.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\913.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\913.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\917.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\917.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\920.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\920.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\923.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\923.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\926.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\926.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\940.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\940.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\943.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\943.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\949.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\949.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\950.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\950.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\951.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\951.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\952.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\952.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\954.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\954.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\967.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\967.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\977.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\977.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\981.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\981.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\989.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\989.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\992.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\992.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\993.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\993.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\994.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\994.json"
+    },
+    {
+        "image_url": "datasets\\detection\\BACK_ID_CARD\\996.JPEG",
+        "annotation_url": "datasets\\detection\\BACK_ID_CARD\\996.json"
+    }
+]
+
+}
